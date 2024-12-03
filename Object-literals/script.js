@@ -13,7 +13,7 @@ x = person;
 //person.isAdmin = false; same thing 2 ways
 // person['isAdmin'] = false; //same thing 2 ways
 
-// person.name = 'summaiya'; // we use this to update something  ne
+// person.name = 'summaiya'; // we use this to update something  new
 // (person.sistername = 'leebs'), // this is how we can add values
 //   console.log(person);
 //! different method

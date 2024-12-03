@@ -10,7 +10,7 @@
 // x = numbers.length;
 
 // fruits[2] = 'Pear'; // we can change any element like this
-// fruits[fruits.length] = 'blueberry'; // sowmtime we have uncountable data so we add elements like this then
+// fruits[fruits.length] = 'blueberry'; // sometime we have uncountable data so we add elements like this then
 // x = numbers.toString();
 
 // console.log(x, typeof x);
