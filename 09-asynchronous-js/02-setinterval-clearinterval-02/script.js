@@ -10,6 +10,7 @@ function myCallback() {
 
 function stopChange() {
   clearInterval(intervalID);
+  intervalID = undefined; // to start again after stopping we need this line
 }
 
 ///change background color
